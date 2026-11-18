@@ -190,6 +190,7 @@ body.edit .view-only{display:none}
   }
 
   function renderMain(){
+    console.log(1);
     var m=document.getElementById("main"),l=lesson();
     if(!l){m.innerHTML='<p class="empty">Chưa có bài học nào. Bấm “Chế độ giáo viên”, rồi “Thêm bài học”.</p>';return}
     var h="";
