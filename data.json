@@ -1,0 +1,65 @@
+{
+  "site": {
+    "name": "Kho học liệu số",
+    "logo": "",
+    "intro": "Nơi các em xem bài giảng, video thực hành và thông tin của trường. Chọn một mục bên dưới để bắt đầu."
+  },
+  "teachers": [
+    {
+      "name": "Thầy/Cô Nguyễn Văn A",
+      "photo": "",
+      "desc": "Giáo viên bộ môn. Hãy cập nhật đoạn giới thiệu ngắn ở trang Quản trị."
+    }
+  ],
+  "place": {
+    "desc": "Giới thiệu ngắn về địa điểm của trường.",
+    "address": "Hà Nội, Việt Nam",
+    "map": ""
+  },
+  "grades": {
+    "6": {
+      "desc": "Bài giảng dành cho học sinh lớp 6.",
+      "cover": "",
+      "lessons": [
+        {
+          "title": "Bài 1: Tên bài học",
+          "slides": "",
+          "video": ""
+        }
+      ]
+    },
+    "7": {
+      "desc": "Bài giảng dành cho học sinh lớp 7.",
+      "cover": "",
+      "lessons": [
+        {
+          "title": "Bài 1: Tên bài học",
+          "slides": "",
+          "video": ""
+        }
+      ]
+    },
+    "8": {
+      "desc": "Bài giảng dành cho học sinh lớp 8.",
+      "cover": "",
+      "lessons": [
+        {
+          "title": "Bài 1: Tên bài học",
+          "slides": "",
+          "video": ""
+        }
+      ]
+    },
+    "9": {
+      "desc": "Bài giảng dành cho học sinh lớp 9.",
+      "cover": "",
+      "lessons": [
+        {
+          "title": "Bài 1: Tên bài học",
+          "slides": "",
+          "video": ""
+        }
+      ]
+    }
+  }
+}
